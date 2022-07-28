@@ -1,5 +1,5 @@
 console.log("Question-1");
-let names = ["Aditi", "Chhavi", "Kanchan", "Neha", "Pooja"];
+let names = ["Harshit", "Sidd", "Ankit", "Satya", "Harshil"];
 console.log("Print in original order");
 for( let n=0;n<names.length;n++){
   
